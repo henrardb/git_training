@@ -1,5 +1,5 @@
 # git_training
-Mise a jour très importante.
+Modification de Bruno fusionné.
 Training for github commands
 
 Fichier édité par un collègue.
