@@ -1,1 +1,3 @@
 Fichier de notes à ajouter au repos.
+
+Ajout de la fonctionnalité "Dark-mode"
